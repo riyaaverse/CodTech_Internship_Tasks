@@ -34,7 +34,7 @@ This repository contains the source code and documentation for the tasks complet
 - **Objective:** Created a computer vision model that applies the artistic style of one image to the content of another.
 - **Libraries Used:** `tensorflow`, `tensorflow_hub`, `opencv-python`, `numpy`
 - **Technique:** Used a pre-trained Fast Style Transfer model from TensorFlow Hub.
-- ##OUTPUT
+- **OUTPUT**:
 
 - ![Image](https://github.com/user-attachments/assets/8e7249d1-ab73-413d-b9d8-fd3697ce8b3f)
 
